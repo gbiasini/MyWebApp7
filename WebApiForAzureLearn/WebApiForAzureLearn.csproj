@@ -6,11 +6,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="pub\**" />
-    <Content Remove="pub\**" />
-    <EmbeddedResource Remove="pub\**" />
-    <None Remove="pub\**" />
-  </ItemGroup>
-
 </Project>
